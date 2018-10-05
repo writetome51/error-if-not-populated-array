@@ -1,0 +1,19 @@
+{
+  "name": "error-if-not-populated-array",
+  "version": "1.0.0",
+  "description": "Function triggers error if argument is not an array with at least one item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "type-check",
+    "error"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "dependencies": {
+    "basic-data-handling": "latest"
+  }
+}
